@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm Student
+My name is Nano. 
+I'm a Computer Engineering student at King Mongkut's University of Technology Thonburi (KMUTT).
 
 
 # 💻 Tech Stack:
