@@ -1,18 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B132B,50:1C4E80,100:A5B4C7&height=200&section=header&text=Phuriant%20Polasa&fontSize=46&fontColor=FFFFFF&fontAlignY=36&desc=Trainer%20Nano%20%C2%B7%20Computer%20Engineering%20%40%20KMUTT&descSize=18&descAlignY=58" alt="Trainer Nano, Computer Engineering at KMUTT" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&pause=1200&color=A8D8FF&center=true&vCenter=true&width=640&height=40&lines=Lugia,+I+choose+you!;Gotta+ship+'em+all!;Building+AI+for+healthcare;Building+AI+for+finance" alt="Lugia, I choose you!" />
+<img src="assets/banner.svg" alt="Phuriant Polasa. Trainer Nano, Computer Engineering at KMUTT. Lugia, Palkia, Koraidon and Miraidon." width="100%" />
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/151.gif" height="60" alt="Mew" /> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/250.gif" height="100" alt="Ho-Oh" /> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/249.gif" height="120" alt="Lugia" /> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/643.gif" height="80" alt="Reshiram" /> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/791.gif" height="72" alt="Solgaleo" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/LEGENDARY-PROJECTS-1C4E80?style=for-the-badge&labelColor=0B132B" alt="Legendary projects" />
-
-<br/><br/>
+<h3>Legendary projects</h3>
 
 <table>
 <tr>
@@ -57,19 +49,15 @@ Thai tarot with GPT-4o<br/>
 </tr>
 </table>
 
-<br/>
-
-<img src="https://img.shields.io/badge/MOVES-I%20KNOW-A5B4C7?style=for-the-badge&labelColor=0B132B" alt="Moves I know" />
-
-<br/><br/>
+<h3>Moves I know</h3>
 
 <img src="https://skillicons.dev/icons?i=py,ts,js,c,cpp,pytorch,tensorflow,opencv,nextjs,react,fastapi,tailwind,docker,figma&perline=14" alt="Python, TypeScript, JavaScript, C, C++, PyTorch, TensorFlow, OpenCV, Next.js, React, FastAPI, Tailwind, Docker, Figma" />
 
-<br/><br/>
+<h3>Trainer stats</h3>
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=KingPhuripol&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=A8D8FF&icon_color=5AA9E6&text_color=FFFFFF&bg_color=0B132B" alt="GitHub stats" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingPhuripol&hide_border=true&layout=compact&count_private=true&title_color=A8D8FF&text_color=FFFFFF&bg_color=0B132B" alt="Top languages" />
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=KingPhuripol&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=7FDBFF&icon_color=A78BFA&text_color=FFFFFF&bg_color=0B1026" alt="GitHub stats" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingPhuripol&hide_border=true&layout=compact&count_private=true&title_color=7FDBFF&text_color=FFFFFF&bg_color=0B1026" alt="Top languages" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A5B4C7,50:1C4E80,100:0B132B&height=90&section=footer" alt="" />
+<img src="assets/footer.svg" alt="" width="100%" />
 
 </div>
