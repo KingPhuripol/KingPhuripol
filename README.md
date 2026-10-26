@@ -1,8 +1,31 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Phuriant Polasa. Trainer Nano, Computer Engineering at KMUTT. Lugia, Palkia, Koraidon and Miraidon." width="100%" />
+<img src="assets/banner.svg" alt="Phurinat Polasa. Trainer Nano, AI Engineer. Lugia, Palkia, Koraidon and Miraidon." width="100%" />
+
+<sub>KMUTT · SCBX R&amp;D · SCB · Bank of Thailand · NECTEC · AIAT</sub>
+
+<img src="assets/highlights.svg" alt="2 gold medals, APICTA 2025 first runner-up, 3 papers, a 300M Thai LLM pretrained from scratch" width="100%" />
 
 <br/>
+
+<h3>Research</h3>
+
+<table>
+<tr>
+<td align="center" width="50%" valign="top">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/483.gif" height="96" alt="Dialga" /><br/>
+<b>Thai LLM from scratch</b><br/>
+~300M parameters · Thai BPE tokenizer<br/>
+data curation to pretraining
+</td>
+<td align="center" width="50%" valign="top">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/648.gif" height="96" alt="Meloetta" /><br/>
+<b>Thai-Duplex-Bench</b><br/>
+Full-duplex spoken-dialogue evaluation<br/>
+555 test items · released on Hugging Face
+</td>
+</tr>
+</table>
 
 <h3>Legendary projects</h3>
 
@@ -51,7 +74,7 @@ Thai tarot with GPT-4o<br/>
 
 <h3>Moves I know</h3>
 
-<img src="https://skillicons.dev/icons?i=py,ts,js,c,cpp,pytorch,tensorflow,opencv,nextjs,react,fastapi,tailwind,docker,figma&perline=14" alt="Python, TypeScript, JavaScript, C, C++, PyTorch, TensorFlow, OpenCV, Next.js, React, FastAPI, Tailwind, Docker, Figma" />
+<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,ts,js,c,cpp,nextjs,react,fastapi,docker,git,linux,figma&perline=14" alt="Python, PyTorch, TensorFlow, TypeScript, JavaScript, C, C++, Next.js, React, FastAPI, Docker, Git, Linux, Figma" />
 
 <h3>Trainer stats</h3>
 
