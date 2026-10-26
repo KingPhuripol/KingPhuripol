@@ -1,23 +1,57 @@
-# 💫 About Me:
-My name is Nano.
-I'm a Computer Engineering student at King Mongkut's University of Technology Thonburi (KMUTT).
+<div align="center">
 
-###
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Phuriant%20Polasa&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Nano%20%C2%B7%20Computer%20Engineering%20%40%20KMUTT&descSize=18&descAlignY=58" alt="Phuriant Polasa (Nano), Computer Engineering at KMUTT" />
 
-<img align="center" height="180" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2ltNHFveWk3cWJqc254a2VwNTJzZmJkN3QyMTI0azF1MHY0N2FkYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0Iygi5Uz8KesnWX6/giphy.gif"  />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=5EEAD4&center=true&vCenter=true&width=520&lines=Building+AI+for+healthcare;Building+AI+for+finance;Explainable+by+design" alt="Building AI for healthcare and finance" />
 
-###
+<br/>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=KingPhuripol&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=KingPhuripol&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KingPhuripol&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<table>
+<tr>
+<td width="33%" valign="top">
+<b>🏥 MedX-AI</b><br/>
+Multilingual clinic intake<br/>
+<a href="https://github.com/KingPhuripol/MedX-AI">repo</a> · <a href="https://medx.areazeroai.com">demo</a>
+</td>
+<td width="33%" valign="top">
+<b>🫀 SmartLiva</b><br/>
+Liver ultrasound copilot<br/>
+<a href="https://github.com/KingPhuripol/SmartMed-Smartliva">repo</a>
+</td>
+<td width="33%" valign="top">
+<b>🩸 SmartLab</b><br/>
+Blood-cell quality testing<br/>
+<a href="https://github.com/KingPhuripol/SmartLab-BloodCellQualityTesting">repo</a>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<b>🚨 NPL Early Warning</b><br/>
+Auto-loan default radar<br/>
+<a href="https://github.com/KingPhuripol/NPL-Task">repo</a>
+</td>
+<td valign="top">
+<b>⚖️ Equi</b><br/>
+Explainable credit scoring<br/>
+<a href="https://github.com/KingPhuripol/equi-credit-assessment">repo</a>
+</td>
+<td valign="top">
+<b>🔮 ARCANUM</b><br/>
+Thai tarot with GPT-4o<br/>
+<a href="https://github.com/KingPhuripol/TarotAI">repo</a>
+</td>
+</tr>
+</table>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=KingPhuripol&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<br/>
 
-[![](https://visitcount.itsvg.in/api?id=KingPhuripol&icon=10&color=0)](https://visitcount.itsvg.in)
+<img src="https://skillicons.dev/icons?i=py,ts,js,c,cpp,pytorch,tensorflow,opencv,nextjs,react,fastapi,tailwind,docker,figma&perline=14" alt="Python, TypeScript, JavaScript, C, C++, PyTorch, TensorFlow, OpenCV, Next.js, React, FastAPI, Tailwind, Docker, Figma" />
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br/><br/>
+
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=KingPhuripol&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingPhuripol&theme=tokyonight&hide_border=true&layout=compact&count_private=true" alt="Top languages" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=90&section=footer" alt="" />
+
+</div>
