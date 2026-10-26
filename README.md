@@ -4,7 +4,7 @@
 
 <sub>KMUTT · SCBX R&amp;D · SCB · Bank of Thailand · NECTEC · AIAT</sub>
 
-<img src="assets/highlights.svg" alt="2 gold medals, APICTA 2025 first runner-up, 3 papers, a 300M Thai LLM pretrained from scratch" width="100%" />
+<img src="assets/highlights.svg" alt="2 gold medals, APICTA 2025 first runner-up, 5 papers, a 300M Thai LLM pretrained from scratch" width="100%" />
 
 <br/>
 
@@ -22,7 +22,7 @@ data curation to pretraining
 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/648.gif" height="96" alt="Meloetta" /><br/>
 <b>Thai-Duplex-Bench</b><br/>
 Full-duplex spoken-dialogue evaluation<br/>
-555 test items · released on Hugging Face
+JCSSE 2026 · 555 test items · on Hugging Face
 </td>
 </tr>
 </table>
